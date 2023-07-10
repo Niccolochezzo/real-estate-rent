@@ -16,6 +16,9 @@ const PriceRangeDropdown = () => {
       value: "Price range (any)",
     },
     {
+      value: "25000 - 100000",
+    },
+    {
       value: "100000 - 125000",
     },
     {
@@ -26,6 +29,9 @@ const PriceRangeDropdown = () => {
     },
     {
       value: "175000 - 200000",
+    },
+    {
+      value: "200000 - 400000",
     },
   ];
 
